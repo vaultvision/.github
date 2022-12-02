@@ -3,10 +3,9 @@
 
 # Who are we?
 
-Vault Vision is built on open source technologies and is committed to building a welcoming community developers can trust. Our platform uses open standards for zero vendor lock-in and you will find vendor agnostic examples on how to integrate.
+[Vault Vision](https://docs.vaultvision.com) is built on open source technologies and is committed to building a welcoming community developers can trust.
 
-Looking to add a user login to your site? Visit [https://docs.vaultvision.com](https://docs.vaultvision.com) to learn more!
-
+Visit [https://docs.vaultvision.com](https://docs.vaultvision.com) to learn more!
 
 ----
 
