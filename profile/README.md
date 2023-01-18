@@ -3,7 +3,7 @@
 
 # Who are we?
 
-[Vault Vision](https://docs.vaultvision.com) is built on open source technologies and is committed to building a welcoming community developers can trust.
+[Vault Vision](https://docs.vaultvision.com)'s user authentication platform is built on open source technologies and is committed to building a welcoming community developers can trust.
 
 Visit [https://docs.vaultvision.com](https://docs.vaultvision.com) to learn more!
 
